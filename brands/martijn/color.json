@@ -1,0 +1,244 @@
+{
+  "border": {
+    "default": {
+      "default": {
+        "value": "{black.200}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{black.300}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "default": {
+        "value": "{blue.100}",
+        "type": "color"
+      },
+      "strong": {
+        "value": "{blue.400}",
+        "type": "color"
+      }
+    },
+    "glucose": {
+      "in-range": {
+        "default": {
+          "value": "{green.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{green.400}",
+          "type": "color"
+        }
+      },
+      "high": {
+        "default": {
+          "value": "{yellow.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{yellow.400}",
+          "type": "color"
+        }
+      },
+      "low": {
+        "default": {
+          "value": "{red.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{red.400}",
+          "type": "color"
+        }
+      },
+      "very-low": {
+        "default": {
+          "value": "{red.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{red.600}",
+          "type": "color"
+        }
+      },
+      "very-high": {
+        "default": {
+          "value": "{orange.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{orange.400}",
+          "type": "color"
+        }
+      }
+    },
+    "status": {
+      "success": {
+        "default": {
+          "value": "{green.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{green.400}",
+          "type": "color"
+        }
+      },
+      "caution": {
+        "default": {
+          "value": "{yellow.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{yellow.400}",
+          "type": "color"
+        }
+      },
+      "critical": {
+        "default": {
+          "value": "{red.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{red.400}",
+          "type": "color"
+        }
+      },
+      "info": {
+        "default": {
+          "value": "{purple.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{purple.400}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "{orange.100}",
+          "type": "color"
+        },
+        "strong": {
+          "value": "{orange.400}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "bg": {
+    "glucose": {
+      "in-range": {
+        "default": {
+          "value": "{green.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{green.100}",
+          "type": "color"
+        }
+      },
+      "high": {
+        "default": {
+          "value": "{yellow.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{yellow.100}",
+          "type": "color"
+        }
+      },
+      "low": {
+        "default": {
+          "value": "{red.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{red.100}",
+          "type": "color"
+        }
+      },
+      "very-low": {
+        "default": {
+          "value": "{red.600}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{red.100}",
+          "type": "color"
+        }
+      },
+      "very-high": {
+        "default": {
+          "value": "{orange.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{orange.100}",
+          "type": "color"
+        }
+      }
+    },
+    "status": {
+      "success": {
+        "default": {
+          "value": "{green.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{green.100}",
+          "type": "color"
+        }
+      },
+      "caution": {
+        "default": {
+          "value": "{yellow.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{yellow.100}",
+          "type": "color"
+        }
+      },
+      "critical": {
+        "default": {
+          "value": "{red.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{red.100}",
+          "type": "color"
+        }
+      },
+      "info": {
+        "default": {
+          "value": "{purple.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{purple.100}",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "default": {
+          "value": "{orange.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{orange.100}",
+          "type": "color"
+        }
+      }
+    },
+    "brand": {
+      "default": {
+        "value": "{blue.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{blue.100}",
+        "type": "color"
+      }
+    }
+  }
+}
