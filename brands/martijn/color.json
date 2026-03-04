@@ -240,5 +240,43 @@
         "type": "color"
       }
     }
+  },
+  "content": {
+    "brand": {
+      "default": {
+        "value": "{blue.400}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{blue.100}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{blue.700}",
+        "type": "color"
+      },
+      "onbrand-subtle": {
+        "value": "{blue.400}",
+        "type": "color"
+      },
+      "onbrand": {
+        "value": "{white.800}",
+        "type": "color"
+      }
+    },
+    "default": {
+      "default": {
+        "value": "{black.600}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{black.400}",
+        "type": "color"
+      },
+      "ghost": {
+        "value": "{black.300}",
+        "type": "color"
+      }
+    }
   }
 }
