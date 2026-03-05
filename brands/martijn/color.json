@@ -238,6 +238,20 @@
       "subtle": {
         "value": "{blue.100}",
         "type": "color"
+      },
+      "strong": {
+        "value": "{blue.700}",
+        "type": "color"
+      }
+    },
+    "default": {
+      "default": {
+        "value": "{white.800}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{black.100}",
+        "type": "color"
       }
     }
   },
@@ -276,6 +290,58 @@
       "ghost": {
         "value": "{black.300}",
         "type": "color"
+      }
+    },
+    "glucose": {
+      "in-range": {
+        "default": {
+          "value": "{green.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{green.100}",
+          "type": "color"
+        }
+      },
+      "high": {
+        "default": {
+          "value": "{yellow.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{yellow.100}",
+          "type": "color"
+        }
+      },
+      "low": {
+        "default": {
+          "value": "{red.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{red.100}",
+          "type": "color"
+        }
+      },
+      "very-low": {
+        "default": {
+          "value": "{red.600}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{red.100}",
+          "type": "color"
+        }
+      },
+      "very-high": {
+        "default": {
+          "value": "{orange.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{orange.100}",
+          "type": "color"
+        }
       }
     }
   }
