@@ -2,11 +2,11 @@
   "border": {
     "default": {
       "default": {
-        "value": "{black.200}",
+        "value": "{gray.200}",
         "type": "color"
       },
       "strong": {
-        "value": "{black.300}",
+        "value": "{gray.300}",
         "type": "color"
       }
     },
@@ -255,26 +255,18 @@
       }
     }
   },
-  "content": {
+  "fg": {
     "brand": {
       "default": {
         "value": "{blue.400}",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "{blue.100}",
         "type": "color"
       },
       "secondary": {
         "value": "{blue.700}",
         "type": "color"
       },
-      "onbrand-subtle": {
-        "value": "{blue.400}",
-        "type": "color"
-      },
-      "onbrand": {
-        "value": "{white.800}",
+      "subtle": {
+        "value": "{blue.100}",
         "type": "color"
       }
     },
@@ -289,6 +281,10 @@
       },
       "ghost": {
         "value": "{black.300}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{white.800}",
         "type": "color"
       }
     },
@@ -334,6 +330,58 @@
         }
       },
       "very-high": {
+        "default": {
+          "value": "{orange.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{orange.100}",
+          "type": "color"
+        }
+      }
+    },
+    "status": {
+      "success": {
+        "default": {
+          "value": "{green.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{green.100}",
+          "type": "color"
+        }
+      },
+      "caution": {
+        "default": {
+          "value": "{yellow.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{yellow.100}",
+          "type": "color"
+        }
+      },
+      "critical": {
+        "default": {
+          "value": "{red.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{red.100}",
+          "type": "color"
+        }
+      },
+      "info": {
+        "default": {
+          "value": "{purple.400}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{purple.100}",
+          "type": "color"
+        }
+      },
+      "warning": {
         "default": {
           "value": "{orange.400}",
           "type": "color"
